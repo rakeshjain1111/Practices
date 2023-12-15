@@ -11,4 +11,5 @@ function show2(){
 function change(){
     var name=document.getElementById("myheading");
     name.style.color ="red";
+    name.style.fontSize="90px";
 }
